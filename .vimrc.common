@@ -11,7 +11,7 @@ set shortmess=aoOtTI
 set updatetime=500
 set undofile
 set undodir=~/.vim/undodir
-set mouse=a
+" set mouse=a
 set number			"show linenumbers
 set ruler " Show the line and column number of the cursor position, separated by a comma    . Needed by the status-line
 set cmdheight=2 " Command-space is 2 lines so tab-completion doesn't always jump around
