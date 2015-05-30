@@ -10,7 +10,6 @@ Vim 7.4+ Config directory with many usefull plugins.
 
  3. Source the config files in your `.vimrc`
          
-         source ~/.vim/.vimrc.core
-         source ~/.vim/.vimrc.common
+         cd ~ && echo -e "source ~/.vim/.vimrc.core\nsource ~/.vim/.vimrc.common" > .vimrc
 
 
