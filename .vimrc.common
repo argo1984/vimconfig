@@ -201,3 +201,6 @@ if &term =~ "xterm.*"
     cmap <Esc>[200~ <nop>
     cmap <Esc>[201~ <nop>
 endif
+
+" fix backspace key when using zsh
+noremap! <C-?> <C-h>
